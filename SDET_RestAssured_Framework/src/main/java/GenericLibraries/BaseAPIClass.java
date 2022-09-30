@@ -10,7 +10,7 @@ import static io.restassured.RestAssured.*;
 
 /**
  * This class will contain basic configuration annotations
- * @author Chaitra M
+ * @author Ankush
  *
  */
 public class BaseAPIClass {

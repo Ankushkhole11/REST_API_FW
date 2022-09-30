@@ -2,7 +2,7 @@ package GenericLibraries;
 
 /**
  * This interface will contain all the endpoints
- * @author Chaitra M
+ * @author Ankush
  *
  */
 public interface EndPointsLibrary {

@@ -8,8 +8,8 @@ import java.sql.SQLException;
 import com.mysql.cj.jdbc.Driver;
 
 /**
- * this class consits of generic methods related to database
- * @author Chaitra M
+ * this class consists of generic methods related to database
+ * @author Ankush
  *
  *
  */
